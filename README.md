@@ -12,7 +12,7 @@ The workshop is designed for developers that have used other platforms like Azur
 
 Please follow [these instructions](GettingReady.md) and make sure you have set up everything correctly following the [prerequisites](#-prerequisites).
 
-## 📆 Agenda
+## 📆  Agenda
 
 ### Part 1: 👥 Collaborate using GitHub
 
